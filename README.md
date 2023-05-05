@@ -12,3 +12,8 @@ $ zig version
 ## Build
 
 Just run `zig build`
+
+## Reference
+
+https://github.com/nrdmn/uefi-examples
+
